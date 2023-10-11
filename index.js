@@ -1,2 +1,2 @@
-//This my firsy JavaScript code!
+//This my first JavaScript code!
 console.log("Hello Einstein!");
